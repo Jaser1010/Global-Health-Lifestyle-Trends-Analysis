@@ -1,0 +1,413 @@
+Country,Year,Diabetes_Prevalence_pct
+Afghanistan,2011,7.6
+Afghanistan,2024,11.7
+Albania,2011,2.8
+Albania,2024,10.6
+Algeria,2011,7.0
+Algeria,2024,17.5
+Andorra,2011,5.4
+Andorra,2024,10.1
+Angola,2011,2.9
+Angola,2024,4.9
+Antigua and Barbuda,2011,12.5
+Antigua and Barbuda,2024,11.6
+Argentina,2011,5.5
+Argentina,2024,14.0
+Armenia,2011,8.5
+Armenia,2024,7.7
+Aruba,2011,12.4
+Aruba,2024,4.6
+Australia,2011,6.6
+Australia,2024,7.4
+Austria,2011,6.6
+Austria,2024,5.4
+Azerbaijan,2011,2.8
+Azerbaijan,2024,10.2
+"Bahamas, The",2011,12.1
+"Bahamas, The",2024,8.9
+Bahrain,2011,19.5
+Bahrain,2024,22.1
+Bangladesh,2011,10.5
+Bangladesh,2024,13.2
+Barbados,2011,12.4
+Barbados,2024,13.2
+Belarus,2011,8.0
+Belarus,2024,5.1
+Belgium,2011,4.8
+Belgium,2024,5.9
+Belize,2011,17.0
+Belize,2024,14.1
+Benin,2011,2.0
+Benin,2024,8.1
+Bermuda,2011,12.0
+Bermuda,2024,13.4
+Bhutan,2011,5.7
+Bhutan,2024,12.0
+Bolivia,2011,6.6
+Bolivia,2024,3.4
+Bosnia and Herzegovina,2011,7.5
+Bosnia and Herzegovina,2024,10.3
+Botswana,2011,10.8
+Botswana,2024,4.6
+Brazil,2011,10.1
+Brazil,2024,10.6
+Brunei Darussalam,2011,9.4
+Brunei Darussalam,2024,13.7
+Bulgaria,2011,6.7
+Bulgaria,2024,7.4
+Burkina Faso,2011,3.0
+Burkina Faso,2024,4.5
+Burundi,2011,2.7
+Burundi,2024,4.3
+Cabo Verde,2011,5.4
+Cabo Verde,2024,6.8
+Cambodia,2011,2.9
+Cambodia,2024,7.5
+Cameroon,2011,6.1
+Cameroon,2024,6.9
+Canada,2011,8.4
+Canada,2024,7.7
+Cayman Islands,2011,12.0
+Cayman Islands,2024,11.1
+Central African Republic,2011,3.2
+Central African Republic,2024,7.6
+Chad,2011,3.9
+Chad,2024,7.3
+Chile,2011,9.5
+Chile,2024,12.2
+China,2011,8.8
+China,2024,11.9
+Colombia,2011,9.8
+Colombia,2024,8.4
+Comoros,2011,8.4
+Comoros,2024,10.8
+"Congo, Dem. Rep.",2011,3.1
+"Congo, Dem. Rep.",2024,7.7
+"Congo, Rep.",2011,5.5
+"Congo, Rep.",2024,8.1
+Costa Rica,2011,9.6
+Costa Rica,2024,9.8
+Cote d'Ivoire,2011,4.9
+Cote d'Ivoire,2024,5.0
+Croatia,2011,5.2
+Croatia,2024,10.5
+Cuba,2011,9.4
+Cuba,2024,9.4
+Curacao,2024,13.4
+Cyprus,2011,9.3
+Cyprus,2024,10.0
+Czechia,2011,5.3
+Czechia,2024,7.6
+Denmark,2011,5.6
+Denmark,2024,6.4
+Djibouti,2011,6.3
+Djibouti,2024,6.5
+Dominica,2011,8.9
+Dominica,2024,12.9
+Dominican Republic,2011,8.1
+Dominican Republic,2024,17.6
+Ecuador,2011,6.6
+Ecuador,2024,4.9
+"Egypt, Arab Rep.",2011,16.6
+"Egypt, Arab Rep.",2024,22.4
+El Salvador,2011,9.4
+El Salvador,2024,12.7
+Equatorial Guinea,2011,4.2
+Equatorial Guinea,2024,8.2
+Eritrea,2011,3.6
+Eritrea,2024,4.4
+Estonia,2011,7.0
+Estonia,2024,6.9
+Eswatini,2011,3.1
+Eswatini,2024,7.9
+Ethiopia,2011,3.4
+Ethiopia,2024,4.4
+Faroe Islands,2024,5.3
+Fiji,2011,10.9
+Fiji,2024,16.6
+Finland,2011,5.8
+Finland,2024,6.9
+France,2011,5.4
+France,2024,6.5
+French Polynesia,2011,8.6
+French Polynesia,2024,22.8
+Gabon,2011,10.3
+Gabon,2024,8.5
+"Gambia, The",2011,2.0
+"Gambia, The",2024,5.5
+Georgia,2011,2.8
+Georgia,2024,6.7
+Germany,2011,5.3
+Germany,2024,7.8
+Ghana,2011,5.0
+Ghana,2024,2.7
+Greece,2011,5.1
+Greece,2024,8.0
+Greenland,2024,4.3
+Grenada,2011,8.6
+Grenada,2024,11.3
+Guam,2011,8.6
+Guam,2024,20.3
+Guatemala,2011,9.3
+Guatemala,2024,13.2
+Guinea,2011,4.4
+Guinea,2024,4.6
+Guinea-Bissau,2011,3.0
+Guinea-Bissau,2024,4.8
+Guyana,2011,16.7
+Guyana,2024,16.4
+Haiti,2011,6.6
+Haiti,2024,8.5
+Honduras,2011,6.7
+Honduras,2024,5.0
+"Hong Kong SAR, China",2011,7.6
+"Hong Kong SAR, China",2024,8.2
+Hungary,2011,6.0
+Hungary,2024,8.3
+Iceland,2011,3.2
+Iceland,2024,6.9
+India,2011,9.0
+India,2024,10.5
+Indonesia,2011,5.1
+Indonesia,2024,11.3
+"Iran, Islamic Rep.",2011,11.1
+"Iran, Islamic Rep.",2024,9.0
+Iraq,2011,9.1
+Iraq,2024,13.4
+Ireland,2011,5.2
+Ireland,2024,3.6
+Isle of Man,2024,7.5
+Israel,2011,7.4
+Israel,2024,10.1
+Italy,2011,5.1
+Italy,2024,7.7
+Jamaica,2011,15.7
+Jamaica,2024,12.5
+Japan,2011,7.7
+Japan,2024,8.1
+Jordan,2011,12.1
+Jordan,2024,20.5
+Kazakhstan,2011,7.7
+Kazakhstan,2024,6.8
+Kenya,2011,5.1
+Kenya,2024,3.1
+Kiribati,2011,25.3
+Kiribati,2024,24.6
+"Korea, Dem. People's Rep.",2011,8.4
+"Korea, Dem. People's Rep.",2024,9.9
+"Korea, Rep.",2011,7.5
+"Korea, Rep.",2024,9.6
+Kosovo,2024,10.4
+Kuwait,2011,20.7
+Kuwait,2024,25.6
+Kyrgyz Republic,2011,6.3
+Kyrgyz Republic,2024,7.6
+Lao PDR,2011,3.3
+Lao PDR,2024,6.7
+Latvia,2011,7.8
+Latvia,2024,7.1
+Lebanon,2011,19.6
+Lebanon,2024,12.3
+Lesotho,2011,3.4
+Lesotho,2024,6.2
+Liberia,2011,3.3
+Liberia,2024,9.2
+Libya,2011,13.8
+Libya,2024,15.8
+Liechtenstein,2011,4.7
+Liechtenstein,2024,7.2
+Lithuania,2011,7.8
+Lithuania,2024,7.5
+Luxembourg,2011,4.5
+Luxembourg,2024,5.8
+"Macao SAR, China",2011,7.2
+"Macao SAR, China",2024,8.1
+Madagascar,2011,4.7
+Madagascar,2024,4.6
+Malawi,2011,5.6
+Malawi,2024,5.7
+Malaysia,2011,12.1
+Malaysia,2024,21.1
+Maldives,2011,9.2
+Maldives,2024,9.5
+Mali,2011,1.9
+Mali,2024,4.8
+Malta,2011,6.6
+Malta,2024,10.0
+Marshall Islands,2011,21.8
+Marshall Islands,2024,25.7
+Mauritania,2011,4.3
+Mauritania,2024,5.2
+Mauritius,2011,14.8
+Mauritius,2024,20.1
+Mexico,2011,15.6
+Mexico,2024,16.4
+"Micronesia, Fed. Sts.",2011,15.7
+"Micronesia, Fed. Sts.",2024,19.2
+Moldova,2011,2.7
+Moldova,2024,6.3
+Monaco,2011,5.6
+Monaco,2024,6.9
+Mongolia,2011,7.1
+Mongolia,2024,10.3
+Montenegro,2011,7.7
+Montenegro,2024,10.7
+Morocco,2011,6.8
+Morocco,2024,11.9
+Mozambique,2011,3.1
+Mozambique,2024,3.0
+Myanmar,2011,7.1
+Myanmar,2024,6.7
+Namibia,2011,7.8
+Namibia,2024,5.3
+Nauru,2011,20.4
+Nauru,2024,21.8
+Nepal,2011,3.6
+Nepal,2024,7.7
+Netherlands,2011,5.3
+Netherlands,2024,5.0
+New Caledonia,2011,8.6
+New Caledonia,2024,22.0
+New Zealand,2011,8.6
+New Zealand,2024,6.7
+Nicaragua,2011,11.0
+Nicaragua,2024,10.4
+Niger,2011,4.2
+Niger,2024,4.1
+Nigeria,2011,4.8
+Nigeria,2024,3.0
+North Macedonia,2011,7.7
+North Macedonia,2024,7.4
+Norway,2011,4.7
+Norway,2024,4.8
+Oman,2011,10.5
+Oman,2024,17.0
+Pakistan,2011,7.9
+Pakistan,2024,31.4
+Palau,2011,11.1
+Palau,2024,19.3
+Panama,2011,9.4
+Panama,2024,11.1
+Papua New Guinea,2011,7.6
+Papua New Guinea,2024,14.1
+Paraguay,2011,6.5
+Paraguay,2024,9.4
+Peru,2011,6.0
+Peru,2024,6.4
+Philippines,2011,9.7
+Philippines,2024,7.5
+Poland,2011,9.0
+Poland,2024,8.1
+Portugal,2011,9.6
+Portugal,2024,10.5
+Puerto Rico (US),2011,13.0
+Puerto Rico (US),2024,10.9
+Qatar,2011,19.8
+Qatar,2024,24.6
+Romania,2011,7.7
+Romania,2024,7.5
+Russian Federation,2011,9.7
+Russian Federation,2024,5.9
+Rwanda,2011,3.1
+Rwanda,2024,2.1
+Samoa,2011,7.7
+Samoa,2024,25.4
+San Marino,2011,5.5
+San Marino,2024,8.6
+Sao Tome and Principe,2011,5.5
+Sao Tome and Principe,2024,12.1
+Saudi Arabia,2011,19.6
+Saudi Arabia,2024,23.1
+Senegal,2011,3.2
+Senegal,2024,3.8
+Serbia,2011,7.7
+Serbia,2024,10.5
+Seychelles,2011,12.1
+Seychelles,2024,9.3
+Sierra Leone,2011,3.2
+Sierra Leone,2024,4.8
+Singapore,2011,9.5
+Singapore,2024,11.4
+Slovak Republic,2011,5.7
+Slovak Republic,2024,7.1
+Slovenia,2011,7.5
+Slovenia,2024,7.0
+Solomon Islands,2011,15.3
+Solomon Islands,2024,12.0
+"Somalia, Fed. Rep.",2011,4.3
+"Somalia, Fed. Rep.",2024,5.8
+South Africa,2011,7.0
+South Africa,2024,7.2
+South Sudan,2024,4.6
+Spain,2011,6.3
+Spain,2024,9.7
+Sri Lanka,2011,7.5
+Sri Lanka,2024,10.2
+St. Kitts and Nevis,2011,8.5
+St. Kitts and Nevis,2024,13.8
+St. Lucia,2011,8.4
+St. Lucia,2024,11.4
+St. Vincent and the Grenadines,2011,8.8
+St. Vincent and the Grenadines,2024,8.6
+Sudan,2011,8.6
+Sudan,2024,19.0
+Suriname,2011,8.9
+Suriname,2024,13.8
+Sweden,2011,4.2
+Sweden,2024,5.8
+Switzerland,2011,5.9
+Switzerland,2024,5.3
+Syrian Arab Republic,2011,9.9
+Syrian Arab Republic,2024,19.0
+Tajikistan,2011,6.3
+Tajikistan,2024,8.0
+Tanzania,2011,2.8
+Tanzania,2024,9.8
+Thailand,2011,7.5
+Thailand,2024,10.2
+Timor-Leste,2011,7.5
+Timor-Leste,2024,3.2
+Togo,2011,3.3
+Togo,2024,4.8
+Tonga,2011,12.7
+Tonga,2024,19.6
+Trinidad and Tobago,2011,12.7
+Trinidad and Tobago,2024,12.4
+Tunisia,2011,9.5
+Tunisia,2024,16.0
+Turkiye,2011,7.9
+Turkiye,2024,16.5
+Turkmenistan,2011,2.7
+Turkmenistan,2024,7.1
+Tuvalu,2011,19.2
+Tuvalu,2024,19.0
+Uganda,2011,2.8
+Uganda,2024,2.2
+Ukraine,2011,2.9
+Ukraine,2024,6.0
+United Arab Emirates,2011,18.8
+United Arab Emirates,2024,20.7
+United Kingdom,2011,5.2
+United Kingdom,2024,7.4
+United States,2011,9.4
+United States,2024,13.7
+Uruguay,2011,5.7
+Uruguay,2024,7.8
+Uzbekistan,2011,6.4
+Uzbekistan,2024,7.5
+Vanuatu,2011,16.1
+Vanuatu,2024,19.7
+"Venezuela, RB",2011,10.2
+"Venezuela, RB",2024,8.6
+Viet Nam,2011,3.2
+Viet Nam,2024,3.4
+Virgin Islands (U.S.),2011,12.1
+Virgin Islands (U.S.),2024,9.1
+West Bank and Gaza,2011,9.2
+West Bank and Gaza,2024,15.5
+"Yemen, Rep.",2011,9.6
+"Yemen, Rep.",2024,5.5
+Zambia,2011,4.8
+Zambia,2024,10.3
+Zimbabwe,2011,9.8
+Zimbabwe,2024,1.5
